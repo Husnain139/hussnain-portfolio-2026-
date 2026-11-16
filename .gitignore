@@ -1,6 +1,7 @@
 # Local Sites checkout and generated deployment files
 /.sites-checkout/
 /.openai/
+/.vercel/
 /dist/
 /hussnain-site.tar.gz
 
